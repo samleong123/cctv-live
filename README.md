@@ -8,7 +8,8 @@ ENG :
 
 1. This playlist contains channels from Henan University (https://metic.haust.edu.cn/) 
 2. All of the channels is hosted in the server of Henan University , running on China Education Network (CERNET).
-CN :
+
+CHN :
 
 1. 这个列表里面的所有频道资源来自河南科技大学(https://metic.haust.edu.cn/) 
 2. 河南科技大学的服务器通过中国教育和科研计算机网(CERNET)提供这个列表里面的所有频道资源
@@ -52,6 +53,7 @@ Channel code/number in this playlist :
 | 东方卫视     | 24             |
 
 ## Available Channels 可用频道 :
+
 ENG :
 
 This playlist contains channel below :
@@ -81,6 +83,7 @@ CHN :
 20. 东方卫视
 
 ## Tokyo 2020 东京2020 :
+
 ENG:
 
 You can watch CCTV 5 and CCTV 5+ , China Central Television broadcast it in Chinese on CCTV 5 and 5+.
@@ -90,6 +93,7 @@ CHN:
 你可以通过观看 CCTV 5 和 CCTV 5+ 收看东京2020资源.
 
 ## Issue 问题 :
+
 ENG: 
 
 You can play this playlist with any IPTV Player that support HLS streaming.
