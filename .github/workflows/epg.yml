@@ -3,7 +3,7 @@ name: Download CCTV EPG
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 0/1 * * *'
+    - cron: '0 0/24 * * *'
     
   pull_request:
     branches:
