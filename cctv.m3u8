@@ -1,0 +1,53 @@
+#EXTM3U x-tvg-url="http://cctv-chn.samsam123.tk/cctv-epg.xml" url-tvg="http://cctv-chn.samsam123.tk/cctv-epg.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+#EXTINF:-1 group-title="CCTV" tvg-id="1" tvg-chno="1" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV 1
+http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="2" tvg-chno="2" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-2_180817.png",CCTV 2
+http://hdtv.haust.edu.cn/hls/cctv2hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="3" tvg-chno="3" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV 3
+http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="4" tvg-chno="4" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV 4
+http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="5" tvg-chno="5" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV 5
+http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="6" tvg-chno="6" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv5+_180817.png",CCTV 5+
+http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="7" tvg-chno="7" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv6_180817.png",CCTV 6
+http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="8" tvg-chno="8" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv7_180817.png",CCTV 7
+http://hdtv.haust.edu.cn/hls/cctv7hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="9" tvg-chno="9" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv8_180817.png",CCTV 8
+http://hdtv.haust.edu.cn/hls/cctv8hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="10" tvg-chno="10" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv9_180817.png",CCTV 9
+http://hdtv.haust.edu.cn/hls/cctv9hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="11" tvg-chno="11" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv10_180817.png",CCTV 10
+http://hdtv.haust.edu.cn/hls/cctv10hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="12" tvg-chno="12" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv11_180817.png",CCTV 11
+http://hdtv.haust.edu.cn/hls/jlu_cctv11hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="13" tvg-chno="13" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv12_180817.png",CCTV 12
+http://hdtv.haust.edu.cn/hls/jlu_cctv12hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="14" tvg-chno="14" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv13_180817.png",CCTV 13
+http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="15" tvg-chno="15" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv14_180817.png",CCTV 14
+http://hdtv.haust.edu.cn/hls/jlu_cctv14hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="16" tvg-chno="16" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv15_180817.png",CCTV 15
+http://hdtv.haust.edu.cn/hls/jlu_cctv15hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="17" tvg-chno="17" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv17_180817.png",CCTV 17
+http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
