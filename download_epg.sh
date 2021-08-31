@@ -15,3 +15,10 @@ echo -e "\e[1;31m [INFO] Rename EPG \e[0m"
 cp e.xml cctv-epg.xml
 
 echo -e "\e[1;31m [INFO] Renamed as cctv-epg.xml \e[0m"
+
+echo -e "\e[1;31m [INFO] Cleaning up \e[0m"
+rm aria2-1.36.0-static-linux-amd64.tar.gz
+rm aria2c
+rm e.xml
+
+echo -e "\e[1;31m [INFO] Done \e[0m"
