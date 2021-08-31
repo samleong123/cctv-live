@@ -44,8 +44,8 @@ jobs:
           
       - name: config
         run: |
-          git config --global user.email AutoupdateRobot@email.com
-          git config --global user.name AutoupdateRobot
+          git config --global user.email leongkaisheng8@gmail.com
+          git config --global user.name samleong123
           git add .
           git commit -m "Update new EPG" -a
       
