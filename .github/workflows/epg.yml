@@ -49,9 +49,9 @@ jobs:
           git add .
           git commit -m "Update new EPG" -a
       
-     - name: Push changes
-       uses: ad-m/github-push-action@master
-       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
+      - name: commit
+        uses: ad-m/github-push-action@master
+        with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         branch: main
           
