@@ -8,6 +8,7 @@ tar -zxf aria2-1.36.0-static-linux-amd64.tar.gz
 ls -a 
 
 echo -e "\e[1;31m [INFO] Downloading EPG from epg.51zmt.top \e[0m"
+rm *.xml
 chmod a+X aria2c
 ./aria2c -x 10 -s 10 http://epg.51zmt.top:8000/e.xml 
 
