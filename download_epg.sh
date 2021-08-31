@@ -19,6 +19,7 @@ echo -e "\e[1;31m [INFO] Renamed as cctv-epg.xml \e[0m"
 
 echo -e "\e[1;31m [INFO] Cleaning up \e[0m"
 rm aria2-1.36.0-static-linux-amd64.tar.gz
+rm aria2-1.36.0-static-linux-amd64.tar.gz.1
 rm aria2c
 rm e.xml
 
