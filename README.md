@@ -9,12 +9,14 @@ ENG :
 1. This playlist contains channels from Henan University (https://metic.haust.edu.cn/) 
 2. All of the channels is hosted in the server of Henan University , running on China Education Network (CERNET).
 3. Get the playlist here : https://cctv-chn.samsam123.tk/cctv.m3u8
+4. This playlist is only accessible via IPV6 , please make sure your network is capable to connect to IPV6 network
 
 CHN :
 
 1. 这个列表里面的所有频道资源来自河南科技大学(https://metic.haust.edu.cn/) 
 2. 河南科技大学的服务器通过中国教育和科研计算机网(CERNET)提供这个列表里面的所有频道资源
 3. 获取列表： https://cctv-chn.samsam123.tk/cctv.m3u8
+4. 此列表仅能通过 IPV6 访问,请确保你的网络可以访问IPV6
 
 ## EPG
 
