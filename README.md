@@ -9,14 +9,20 @@ ENG :
 1. This playlist contains channels from Henan University (https://metic.haust.edu.cn/) 
 2. All of the channels is hosted in the server of Henan University , running on China Education Network (CERNET).
 3. Get the playlist here : https://cctv-chn.samsam123.tk/cctv.m3u8
-4. This playlist is only accessible via IPV6 , please make sure your network is capable to connect to IPV6 network
+4. This playlist is only accessible via IPV6 for [IPV6 Only] channels , please make sure your network is capable to connect to IPV6 network
+5. You can access this playlist with your IPV4 network for [Cloudflare CDN] channels.
+6. [Cloudflare CDN] version is basically pointing Cloudflare to Henan University (https://metic.haust.edu.cn/)'s server. Their server didn't verify the hostname.
+7. We won't sure the [Cloudflare CDN] version work all the time.
 
 CHN :
 
 1. 这个列表里面的所有频道资源来自河南科技大学(https://metic.haust.edu.cn/) 
 2. 河南科技大学的服务器通过中国教育和科研计算机网(CERNET)提供这个列表里面的所有频道资源
 3. 获取列表： https://cctv-chn.samsam123.tk/cctv.m3u8
-4. 此列表仅能通过 IPV6 访问,请确保你的网络可以访问IPV6
+4. 此列表里标识为[IPV6 Only] 的频道仅能通过 IPV6 访问,请确保你的网络可以访问IPV6
+5. 你可以通过你的 IPV4 网络访问带有 [Cloudflare CDN] 标识的频道.
+6. [Cloudflare CDN] 频道版本基本就是将Cloudflare 回源指向河南科技大学(https://metic.haust.edu.cn/) 的服务器，他们的服务器没有验证 Hostname.
+7. 我们不担保 [Cloudflare CDN] 频道版本将一直可用.
 
 ## EPG
 
