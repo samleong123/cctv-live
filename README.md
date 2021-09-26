@@ -24,6 +24,14 @@ CHN :
 6. [Cloudflare CDN] 频道版本基本就是将Cloudflare 回源指向河南科技大学(https://metic.haust.edu.cn/) 的服务器，他们的服务器没有验证 Hostname.
 7. 我们不担保 [Cloudflare CDN] 频道版本将一直可用.
 
+## Web Player 网页播放器
+
+ENG: 
+You can watch your favourite channels from China Central Television (CCTV) on [https://cctv-chn.samsam123.tk/web-player](https://cctv-chn.samsam123.tk/web-player) !
+
+CHN:
+现在可以通过 [https://cctv-chn.samsam123.tk/web-player](https://cctv-chn.samsam123.tk/web-player) 观赏中国中央电视台(CCTV)的频道!
+
 ## EPG
 
 ENG:
