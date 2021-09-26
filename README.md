@@ -27,12 +27,14 @@ CHN :
 ## Web Player 网页播放器
 
 ENG: 
-You can watch your favourite channels from China Central Television (CCTV) on [https://cctv-chn.samsam123.tk/web-player](https://cctv-chn.samsam123.tk/web-player) !
-For overseas users , we recommend you to choose the Cloudflare CDN version to avoid buffering.
+1. You can watch your favourite channels from China Central Television (CCTV) on [http://cctv-chn.samsam123.tk/web-player](http://cctv-chn.samsam123.tk/web-player) !
+2. For overseas users , we recommend you to choose the Cloudflare CDN version to avoid buffering.
+3. You must visit the web player with HTTP instead of HTTPS or else you will get error.
 
 CHN:
-现在可以通过 [https://cctv-chn.samsam123.tk/web-player](https://cctv-chn.samsam123.tk/web-player) 观赏中国中央电视台(CCTV)的频道!
-海外用户建议选择 Cloudflare CDN 版本以避免视频缓冲.
+1. 现在可以通过 [http://cctv-chn.samsam123.tk/web-player](http://cctv-chn.samsam123.tk/web-player) 观赏中国中央电视台(CCTV)的频道!
+2. 海外用户建议选择 Cloudflare CDN 版本以避免视频缓冲.
+3. 一定要使用 HTTP 访问而不是 HTTPS，否则会出现错误!
 
 ## EPG
 
