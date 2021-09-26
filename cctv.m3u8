@@ -69,3 +69,72 @@ http://hdtv.haust.edu.cn/hls/dfhd.m3u8
 
 #EXTINF:-1 group-title="东方卫视" tvg-id="24" tvg-chno="24" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/dongfang.png",[IPV6 Only] 东方卫视 [Source 2]
 http://hdtv.haust.edu.cn/hls/jlu_dfhd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="1" tvg-chno="1" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV1.png",[Cloudflare CDN] CCTV 1
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv1hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="2" tvg-chno="2" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV2.png",[Cloudflare CDN] CCTV 2
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv2hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="3" tvg-chno="3" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV3.png",[Cloudflare CDN] CCTV 3
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv3hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="4" tvg-chno="4" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV4.png",[Cloudflare CDN] CCTV 4
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv4hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="5" tvg-chno="5" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV5.png",[Cloudflare CDN] CCTV 5
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv5hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="6" tvg-chno="6" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV5+.png",[Cloudflare CDN] CCTV 5+
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv5phd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="7" tvg-chno="7" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV6.png",[Cloudflare CDN] CCTV 6
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv6hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="8" tvg-chno="8" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV7.png",[Cloudflare CDN] CCTV 7
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv7hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="9" tvg-chno="9" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV8.png",[Cloudflare CDN] CCTV 8
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv8hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="10" tvg-chno="10" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV9.png",[Cloudflare CDN] CCTV 9
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv9hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="11" tvg-chno="11" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV10.png",[Cloudflare CDN] CCTV 10
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv10hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="12" tvg-chno="12" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV11.png",[Cloudflare CDN] CCTV 11
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/jlu_cctv11hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="13" tvg-chno="13" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV12.png",[Cloudflare CDN] CCTV 12
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/jlu_cctv12hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="14" tvg-chno="14" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV13.png",[Cloudflare CDN] CCTV 13
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv13hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="15" tvg-chno="15" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV14.png",[Cloudflare CDN] CCTV 14
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/jlu_cctv14hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="16" tvg-chno="16" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV15.png",[Cloudflare CDN] CCTV 15
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/jlu_cctv15hd.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-id="17" tvg-chno="17" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV17.png",[Cloudflare CDN] CCTV 17
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv17hd.m3u8
+
+#EXTINF:-1 group-title="湖南卫视" tvg-id="20" tvg-chno="20" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/hunan.png",[Cloudflare CDN] 湖南卫视 [Source 1]
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/hnhd.m3u8
+
+#EXTINF:-1 group-title="湖南卫视" tvg-id="20" tvg-chno="20" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/hunan.png",[Cloudflare CDN] 湖南卫视 [Source 2]
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/jlu_hnhd.m3u8
+
+#EXTINF:-1 group-title="浙江卫视" tvg-id="21" tvg-chno="21" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/zhejiang.png",[Cloudflare CDN] 浙江卫视 [Source 1]
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/zjhd.m3u8
+
+#EXTINF:-1 group-title="浙江卫视" tvg-id="21" tvg-chno="21" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/zhejiang.png",[Cloudflare CDN] 浙江卫视 [Source 2]
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/jlu_zjhd.m3u8
+
+#EXTINF:-1 group-title="东方卫视" tvg-id="24" tvg-chno="24" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/dongfang.png",[Cloudflare CDN] 东方卫视 [Source 1]
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/dfhd.m3u8
+
+#EXTINF:-1 group-title="东方卫视" tvg-id="24" tvg-chno="24" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/dongfang.png",[Cloudflare CDN] 东方卫视 [Source 2]
+http://cdn-cctv-live.olympics-2020-tnm.tk/hls/jlu_dfhd.m3u8
