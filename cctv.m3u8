@@ -52,10 +52,7 @@ http://hdtv.haust.edu.cn/hls/jlu_cctv15hd.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-id="17" tvg-chno="17" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV17.png",[IPV6 Only] CCTV 17
 http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 
-#EXTINF:-1 group-title="湖南卫视" tvg-id="20" tvg-chno="20" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/hunan.png",[IPV6 Only] 湖南卫视 [Source 1]
-http://hdtv.haust.edu.cn/hls/hnhd.m3u8
-
-#EXTINF:-1 group-title="湖南卫视" tvg-id="20" tvg-chno="20" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/hunan.png",[IPV6 Only] 湖南卫视 [Source 2]
+#EXTINF:-1 group-title="湖南卫视" tvg-id="20" tvg-chno="20" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/hunan.png",[IPV6 Only] 湖南卫视
 http://hdtv.haust.edu.cn/hls/jlu_hnhd.m3u8
 
 #EXTINF:-1 group-title="浙江卫视" tvg-id="21" tvg-chno="21" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/zhejiang.png",[IPV6 Only] 浙江卫视 [Source 1]
@@ -121,10 +118,7 @@ http://cdn-cctv-live.olympics-2020-tnm.tk/hls/jlu_cctv15hd.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-id="17" tvg-chno="17" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/CCTV17.png",[Cloudflare CDN] CCTV 17
 http://cdn-cctv-live.olympics-2020-tnm.tk/hls/cctv17hd.m3u8
 
-#EXTINF:-1 group-title="湖南卫视" tvg-id="20" tvg-chno="20" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/hunan.png",[Cloudflare CDN] 湖南卫视 [Source 1]
-http://cdn-cctv-live.olympics-2020-tnm.tk/hls/hnhd.m3u8
-
-#EXTINF:-1 group-title="湖南卫视" tvg-id="20" tvg-chno="20" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/hunan.png",[Cloudflare CDN] 湖南卫视 [Source 2]
+#EXTINF:-1 group-title="湖南卫视" tvg-id="20" tvg-chno="20" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/hunan.png",[Cloudflare CDN] 湖南卫视
 http://cdn-cctv-live.olympics-2020-tnm.tk/hls/jlu_hnhd.m3u8
 
 #EXTINF:-1 group-title="浙江卫视" tvg-id="21" tvg-chno="21" tvg-logo="https://cctv-chn.samsam123.tk/channel-logo/zhejiang.png",[Cloudflare CDN] 浙江卫视 [Source 1]
