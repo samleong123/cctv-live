@@ -18,7 +18,7 @@ CHN :
 
 1. 这个列表里面的所有频道资源来自河南科技大学(https://metic.haust.edu.cn/) 
 2. 河南科技大学的服务器通过中国教育和科研计算机网(CERNET)提供这个列表里面的所有频道资源
-3. 获取列表： https://cctv-chn.samsam123.tk/cctv.m3u8
+3. 获取列表： [https://cctv-chn.samsam123.tk/cctv.m3u8](https://cctv-chn.samsam123.tk/cctv.m3u8)
 4. 此列表里标识为[IPV6 Only] 的频道仅能通过 IPV6 访问,请确保你的网络可以访问IPV6
 5. 你可以通过你的 IPV4 网络访问带有 [Cloudflare CDN] 标识的频道.
 6. [Cloudflare CDN] 频道版本基本就是将Cloudflare 回源指向河南科技大学(https://metic.haust.edu.cn/) 的服务器，他们的服务器没有验证 Hostname.
@@ -28,9 +28,11 @@ CHN :
 
 ENG: 
 You can watch your favourite channels from China Central Television (CCTV) on [https://cctv-chn.samsam123.tk/web-player](https://cctv-chn.samsam123.tk/web-player) !
+For overseas users , we recommend you to choose the Cloudflare CDN version to avoid buffering.
 
 CHN:
 现在可以通过 [https://cctv-chn.samsam123.tk/web-player](https://cctv-chn.samsam123.tk/web-player) 观赏中国中央电视台(CCTV)的频道!
+海外用户建议选择 Cloudflare CDN 版本以避免视频缓冲.
 
 ## EPG
 
