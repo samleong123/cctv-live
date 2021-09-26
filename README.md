@@ -8,7 +8,7 @@ ENG :
 
 1. This playlist contains channels from Henan University (https://metic.haust.edu.cn/) 
 2. All of the channels is hosted in the server of Henan University , running on China Education Network (CERNET).
-3. Get the playlist here : https://cctv-chn.samsam123.tk/cctv.m3u8
+3. Get the playlist here : [https://cctv-chn.samsam123.tk/cctv.m3u8](https://cctv-chn.samsam123.tk/cctv.m3u8)
 4. This playlist is only accessible via IPV6 for [IPV6 Only] channels , please make sure your network is capable to connect to IPV6 network
 5. You can access this playlist with your IPV4 network for [Cloudflare CDN] channels.
 6. [Cloudflare CDN] version is basically pointing Cloudflare to Henan University (https://metic.haust.edu.cn/)'s server. Their server didn't verify the hostname.
