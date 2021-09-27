@@ -13,6 +13,8 @@ ENG :
 5. You can access this playlist with your IPV4 network for [Cloudflare CDN] channels.
 6. [Cloudflare CDN] version is basically pointing Cloudflare to Henan University (https://metic.haust.edu.cn/)'s server. Their server didn't verify the hostname.
 7. We won't sure the [Cloudflare CDN] version work all the time.
+8. Access from China IP towards [Cloudflare CDN] is blocked by default. Sorry for the incovinience caused.
+9. For China IP users , kindly confirm your network is capable to connect to IPV6 network. You may use the [IPV6 Only] channels.
 
 CHN :
 
@@ -23,6 +25,8 @@ CHN :
 5. 你可以通过你的 IPV4 网络访问带有 [Cloudflare CDN] 标识的频道.
 6. [Cloudflare CDN] 频道版本基本就是将Cloudflare 回源指向河南科技大学(https://metic.haust.edu.cn/) 的服务器，他们的服务器没有验证 Hostname.
 7. 我们不担保 [Cloudflare CDN] 频道版本将一直可用.
+8. 针对[Cloudflare CDN]的资源，中国大陆IP默认被禁止访问. 抱歉.
+9. 若中国大陆IP用户想要观看这些资源，请确保可连接至 IPV6 网络，可收看带有 [IPV6 Only] 的频道.
 
 ## Web Player 网页播放器
 
