@@ -2,6 +2,14 @@
 Watch various channel of China Central Television on IPTV Apps
 通过任何IPTV播放器观看中国中央广播电视总台的频道
 
+
+# THIS REPO IS DEPRECATED 此REPO已弃用！
+## In charge person of Henan University Internet Department has contacted me and told me the hostname bug will be fixed and they will limit to internal use only. They will also verify IP addresses and you might unable to visit some China Government website if the IP address isn't authenticated.
+## 河南网科办负责人已联系我并且告知将修复该漏洞，并且该网站将会改为校内模式而已. 此外，他也告知我其他教育网都会开始实行验证，非验证都会被禁或交由国家通信安全电信办处理，一旦通过可能导致访问不到任何国内重点网.
+## Screenshot :
+![image](https://user-images.githubusercontent.com/58818070/135713094-ff5b4a8f-ed4b-4cef-80d1-e7892371b24a.png)
+![image](https://user-images.githubusercontent.com/58818070/135713170-c0aeedf6-dd69-490e-bf46-7671e51436df.png)
+
 ## Before you use this playlist 在您还没有使用这个列表时
 
 ENG :
